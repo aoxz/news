@@ -1,2 +1,1 @@
-# news
-a new news site
+# work in progress
